@@ -4,3 +4,4 @@ preprocessing_pipeline
 ___pycache__
 */___pycache__
 models
+.locks
